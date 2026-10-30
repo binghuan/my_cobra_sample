@@ -1,5 +1,11 @@
 # my_cobra_sample
 
+## Feature overview
+
+![my_cobra_sample — feature flow diagram](README-assets/project-preview.svg)
+
+Conceptual feature flow based on this repository; this is a documentation diagram, not an application screenshot.
+
 ## What is cobra
 Cobra is both a library for creating powerful modern CLI applications as well as a program to generate applications and command files.  
 <https://github.com/spf13/cobra>
